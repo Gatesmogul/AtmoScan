@@ -12,12 +12,12 @@ AtmoScan is a high-performance, cross-platform weather application built with **
 - **Framework**: React Native (Expo SDK)
 - **Language**: TypeScript
 - **Navigation**: React Navigation (Drawer & Stack)
-- **Icons**: Ionicons (@expo/vector-icons)
+- **Icons**: Ionicons
 
-## 📦 Getting Started
-To get the development environment running locally:
+---
 
-1. **Clone the repository**
+## ⚙️ Getting Started
+
+1. Install dependencies:
    ```bash
-   git clone [https://github.com/Hilosthone/AtmoScan.git](https://github.com/Hilosthone/AtmoScan.git)
-   cd AtmoScan
+   npm install
