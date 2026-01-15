@@ -1,0 +1,32 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Expo / React Native
+.expo/
+.expo-shared/
+
+# Android / Gradle
+.gradle/
+build/
+local.properties
+*.apk
+*.ap_
+
+# iOS / Xcode (if applicable)
+Pods/
+*.xcworkspace
+*.xcuserstate
+DerivedData/
+
+# IDE configs
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Misc
+.env
